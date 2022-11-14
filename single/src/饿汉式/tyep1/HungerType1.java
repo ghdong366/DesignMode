@@ -1,4 +1,4 @@
-package 饿汉式;
+package 饿汉式.tyep1;
 
 /**
  * @author Admin
